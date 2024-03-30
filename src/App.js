@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Header />
       <Banner />
-      <div className="flex flex-col gap-36">
+      <div className="">
         <Experts />
         <NewsLetter />
       </div>

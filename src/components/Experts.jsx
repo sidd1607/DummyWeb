@@ -3,7 +3,7 @@ import laptop from "../assets/laptop.jpg";
 
 const Experts = () => {
   return (
-    <section className="max-w-[1240px] p-2 my-10 mx-auto h-[200px] md:grid grid-cols-3">
+    <section className="max-w-[1240px] p-2 my-10 mx-auto  md:grid grid-cols-3">
       <div className="col-span-1 w-[100%] text-center">
         <img src={laptop} alt="" className="inline" />
       </div>
