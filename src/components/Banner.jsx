@@ -16,7 +16,8 @@ const Banner = () => {
             strings={[
               "Web Development",
               "Data Analytics",
-              "Artifical Intagillance",
+              "Artificial Intelligence",
+              "",
             ]}
             typeSpeed={100}
             loop={true}
